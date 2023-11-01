@@ -2,7 +2,7 @@ import { twMerge } from "tailwind-merge";
 import className from "classnames";
 
 const finalClassName = className('px-3','py-1.5','bg-blue-500');
-console.log(finalClassName);
+
 
 function Button({
     children,
